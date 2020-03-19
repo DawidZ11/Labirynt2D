@@ -1,0 +1,13 @@
+﻿  Wall.cpp
+c:\users\dawid\desktop\labirynt 2d\labirynt 2d\wall.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Target.cpp
+c:\users\dawid\desktop\labirynt 2d\labirynt 2d\target.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Player.cpp
+c:\users\dawid\desktop\labirynt 2d\labirynt 2d\player.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  main.cpp
+c:\users\dawid\desktop\labirynt 2d\labirynt 2d\engine.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Game.cpp
+c:\users\dawid\desktop\labirynt 2d\labirynt 2d\engine.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Engine.cpp
+c:\users\dawid\desktop\labirynt 2d\labirynt 2d\engine.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Generating Code...

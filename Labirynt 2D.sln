@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Labirynt 2D", "Labirynt 2D\Labirynt 2D.vcxproj", "{71DEEA27-1E66-4EB3-9AF3-55B875BABBD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71DEEA27-1E66-4EB3-9AF3-55B875BABBD5}.Debug|x64.ActiveCfg = Debug|x64
+		{71DEEA27-1E66-4EB3-9AF3-55B875BABBD5}.Debug|x64.Build.0 = Debug|x64
+		{71DEEA27-1E66-4EB3-9AF3-55B875BABBD5}.Debug|x86.ActiveCfg = Debug|Win32
+		{71DEEA27-1E66-4EB3-9AF3-55B875BABBD5}.Debug|x86.Build.0 = Debug|Win32
+		{71DEEA27-1E66-4EB3-9AF3-55B875BABBD5}.Release|x64.ActiveCfg = Release|x64
+		{71DEEA27-1E66-4EB3-9AF3-55B875BABBD5}.Release|x64.Build.0 = Release|x64
+		{71DEEA27-1E66-4EB3-9AF3-55B875BABBD5}.Release|x86.ActiveCfg = Release|Win32
+		{71DEEA27-1E66-4EB3-9AF3-55B875BABBD5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02C75274-78EF-4049-8B9F-F533787D09C5}
+	EndGlobalSection
+EndGlobal

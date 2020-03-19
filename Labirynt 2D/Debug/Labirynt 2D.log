@@ -1,0 +1,6 @@
+﻿  Game.cpp
+E:\Dane\Informatyka\Programy\na infe\Labirynt 2D\Labirynt 2D\Game.cpp(43,23): warning C4018:  '<': signed/unsigned mismatch
+E:\Dane\Informatyka\Programy\na infe\Labirynt 2D\Labirynt 2D\Game.cpp(51,23): warning C4018:  '<': signed/unsigned mismatch
+E:\Dane\Informatyka\Programy\na infe\Labirynt 2D\Labirynt 2D\Game.cpp(59,23): warning C4018:  '<': signed/unsigned mismatch
+E:\Dane\Informatyka\Programy\na infe\Labirynt 2D\Labirynt 2D\Game.cpp(67,23): warning C4018:  '<': signed/unsigned mismatch
+  Labirynt 2D.vcxproj -> E:\Dane\Informatyka\Programy\na infe\Labirynt 2D\Debug\Labirynt 2D.exe
